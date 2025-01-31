@@ -36,3 +36,5 @@ Certifications (Optional, if applicable)
 Additional Information (Optional)
 	•	Open to new opportunities in Python development, automation, and AI-driven solutions.
 	•	Passionate about solving real-world problems through software development.
+Developed complex SQL queries and optimized database performance, resulting in a 30% reduction in
+query response time and enhanced overall system efficiency.
